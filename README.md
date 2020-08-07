@@ -5,7 +5,7 @@ git clone https://github.com/takrim1999/slang_blocker
 
 use:
 cd slang_block
-python3 slangblock.py
+python3 slangblocker.py
 
 
 nb:never use any other word as slang append,
